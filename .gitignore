@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.venv/
+.env
+poetry.lock
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Large data files (add separately if needed)
+*.hdf5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
