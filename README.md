@@ -132,9 +132,13 @@ requests.post(f"{API_URL}/api/submit", json={
 
 ## Background
 
-This was my first hackathon, and it became one of the most valuable learning experiences I've had. Working with RF signal data and building ML classifiers from scratch sparked a genuine interest in machine learning that I've continued to pursue since.
+This hackathon was a blast. Our team brought together students from **UBC and SFU**, all thrown together to tackle a problem none of us had ever worked on before.
 
-The event brought together teams from BCIT, UBC, and SFU to tackle real defence technology challenges. Over an intense few days, we went from raw IQ samples to a working prototype that could detect and classify emitters in real-time.
+Over an intense weekend, we went from staring at raw IQ signal data wondering "what is this?" to having a working dashboard that could actually detect and classify RF emitters in real-time. The kind of experience where you learn more in 48 hours than you do in a month of lectures.
+
+For me personally, it was my first hackathon and definitely not what I expected. Working with RF signals and building ML classifiers from scratch ended up sparking a genuine interest in machine learning that I've continued to pursue since. Plus, nothing beats the feeling of seeing your system actually work at 3 AM while everyone else is still debugging.
+
+Big thanks to the organizers and mentors from Bovara Labs for putting together a genuinely challenging (and fun) problem.
 
 ---
 
@@ -144,4 +148,4 @@ MIT — built for learning and experimentation.
 
 ---
 
-**Acknowledgements:** UBC RedTeam Hackathon Series, Bovara Labs mentors, and the BCIT Computing community.
+**Acknowledgements:** UBC RedTeam Hackathon Series, Bovara Labs mentors, and our awesome team of UBC + SFU students.
