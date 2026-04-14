@@ -138,7 +138,7 @@ From 9 AM to 6 PM, we went from staring at raw IQ signal data wondering "what is
 
 For me personally, it was my first hackathon and definitely not what I expected. Working with RF signals and building ML classifiers from scratch ended up sparking a genuine interest in machine learning that I've continued to pursue since. There's something special about building something real under pressure with a team of people who are all figuring it out as they go.
 
-Big thanks to the organizers and mentors from Bovara Labs for putting together a genuinely challenging (and fun) problem.
+Big thanks to the event organizers, the mentors who helped all teams throughout the day, and Red Bull for keeping us caffeinated (and for the free drinks — they really pulled through).
 
 ---
 
@@ -148,4 +148,4 @@ MIT — built for learning and experimentation.
 
 ---
 
-**Acknowledgements:** UBC RedTeam Hackathon Series, Bovara Labs mentors, and our awesome team of UBC + SFU students.
+**Acknowledgements:** UBC RedTeam Hackathon Series, event mentors, Red Bull, and our awesome team of UBC + SFU students.
