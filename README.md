@@ -134,9 +134,9 @@ requests.post(f"{API_URL}/api/submit", json={
 
 This hackathon was a blast. Our team brought together students from **UBC and SFU**, all thrown together to tackle a problem none of us had ever worked on before.
 
-Over an intense weekend, we went from staring at raw IQ signal data wondering "what is this?" to having a working dashboard that could actually detect and classify RF emitters in real-time. The kind of experience where you learn more in 48 hours than you do in a month of lectures.
+From 9 AM to 6 PM, we went from staring at raw IQ signal data wondering "what is this?" to having a working dashboard that could actually detect and classify RF emitters in real-time. The kind of experience where you learn more in one intense day than you do in a month of lectures.
 
-For me personally, it was my first hackathon and definitely not what I expected. Working with RF signals and building ML classifiers from scratch ended up sparking a genuine interest in machine learning that I've continued to pursue since. Plus, nothing beats the feeling of seeing your system actually work at 3 AM while everyone else is still debugging.
+For me personally, it was my first hackathon and definitely not what I expected. Working with RF signals and building ML classifiers from scratch ended up sparking a genuine interest in machine learning that I've continued to pursue since. There's something special about building something real under pressure with a team of people who are all figuring it out as they go.
 
 Big thanks to the organizers and mentors from Bovara Labs for putting together a genuinely challenging (and fun) problem.
 
